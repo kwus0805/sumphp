@@ -54,6 +54,7 @@ echo "\n";
 echo mktime(0,0,0);
  ?>
 
+
  <?php
  //Q5 date…日付の取得
  echo date('Y/m/d H:i:s');
